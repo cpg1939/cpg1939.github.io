@@ -1,0 +1,18 @@
+.section {
+    width:100%
+}
+.poppies {
+    background-image: url("images/poppies.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black !important;
+}
+
+.poppies a:hover {
+    background-color: rgba(200, 200, 200, 0.3) !important;
+}
+.green {
+    background-color: #39431D;
+    color: white;
+}
